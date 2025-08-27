@@ -45,7 +45,7 @@ BuscaLogo is a **decentralized web intelligence platform** that empowers users t
 
 - Check beginner issues: [Good First Issues](https://github.com/buscalogo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Read the guide: [Contribution Guide](https://github.com/buscalogo/frontend/blob/main/CONTRIBUTING.md)
-- Join the community: [Discord](https://discord.gg/AJjDJUc8bn) | [Telegram](#)
+- Join the community: [Discord](https://discord.gg/AJjDJUc8bn) | [Telegram](https://t.me/buscalogo)
 
 ---
 

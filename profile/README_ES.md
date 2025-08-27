@@ -45,7 +45,7 @@ BuscaLogo es una **plataforma de inteligencia web descentralizada** que capacita
 
 - Ve issues para principiantes: [Good First Issues](https://github.com/buscalogo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Lee la guía: [Guía de Contribución](https://github.com/buscalogo/frontend/blob/main/CONTRIBUTING.md)
-- Únete a la comunidad: [Discord](https://discord.gg/AJjDJUc8bn) | [Telegram](#)
+- Únete a la comunidad: [Discord](https://discord.gg/AJjDJUc8bn) | [Telegram](https://t.me/buscalogo)
 
 ---
 
