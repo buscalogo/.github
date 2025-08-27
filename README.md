@@ -27,7 +27,7 @@ Basta instalar a extensão ou rodar o cliente desktop e você já contribui com 
 ## 🤝 Contribua!
 
 - Veja issues para iniciantes: [Good First Issues](https://github.com/buscalogo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- Entre na comunidade: [Discord](#) | [Telegram](#)  
+- Entre na comunidade: [Discord](https://discord.gg/AJjDJUc8bn) | [Telegram](https://t.me/buscalogo)  
 - Leia o passo a passo para rodar localmente: [Guia de Contribuição](https://github.com/buscalogo/frontend/blob/main/CONTRIBUTING.md)
 
 ---
